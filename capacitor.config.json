@@ -1,0 +1,11 @@
+{
+  "appId": "com.hueball.game",
+  "appName": "HueBall",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
